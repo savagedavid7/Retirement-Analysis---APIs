@@ -24,11 +24,11 @@ To further visualize monthly spending habits, I've also plotted the monthly spen
 
 In order to project the future returns of the portfolio I ran a monte carlo simulation based on a 60/40 portfolio made up of SPY and AGG. The chart below shows the results of the 500 simulations I ran based on 3 years of returns for the next 30 years.
 
-![Expenses_bar](Starter_code/Simulations_portfolio_returns.png)
+![Simulations](Starter_code/Simulations_portfolio_returns.png)
 
 Next I graphed the returns and marked a 90% confidence interval (shown in between the two red lines). As shown, the simulations implies that with a 90% degree of confidence the portfolio will be roughly 100x to almost 400x greater than initial investment.
 
-![Expenses_bar](Starter_code/Confidence_Interval.png)
+![Confidence](Starter_code/Confidence_Interval.png)
 
 
 #### Retirement Analysis
@@ -53,8 +53,8 @@ Next I graphed the returns and marked a 90% confidence interval (shown in betwee
 
 (iii) Below is a plot showing the simulated cumulative returns for the portfolio at the indicated percentiles(in the legend). 
 
-![Expenses_bar](Starter_code/Portfolio_performance_over_time.png)
+![performance](Starter_code/Portfolio_performance_over_time.png)
 
 (iv) This final chart shows simply the simulated median return for portfolio over time vs the simulated portfolio return at the 95th percentile. 
 
-![Expenses_bar](Starter_code/Median_Portfolio_performance_over_time.png)
+![median](Starter_code/Median_Portfolio_performance_over_time.png)
