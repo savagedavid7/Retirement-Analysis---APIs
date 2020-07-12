@@ -14,21 +14,21 @@ In the budget analysis I've broken up the expenses into 6 main categories:
 
 As shown in the graph below 'Transfers' is by far the largest expense category, accounting for 64% of total expenses. 'Payments', accounted for 20% of total expenses, while 'Food and Drink' accounted for 11% of total.
 
-![](Starter_Code/Expense_Breakdown.png)
+![Expenses_pie](Expense_Breakdown.png)
 
 To further visualize monthly spending habits, I've also plotted the monthly spending from April through to July (shown below).
 
-![](Starter_code/Spending_per_month.png)
+![Expenses_bar](Spending_per_month.png)
 
 ### Section 2 - Retirement Planning 
 
 In order to project the future returns of the portfolio I ran a monte carlo simulation based on a 60/40 portfolio made up of SPY and AGG. The chart below shows the results of the 500 simulations I ran based on 3 years of returns for the next 30 years.
 
-![](Starter_code/Simulations_portfolio_returns.png)
+![Simulations](Simulations_portfolio_returns.png)
 
 Next I graphed the returns and marked a 90% confidence interval (shown in between the two red lines). As shown, the simulations implies that with a 90% degree of confidence the portfolio will be roughly 100x to almost 400x greater than initial investment.
 
-![](Starter_code/Confidence_Interval.png)
+![Confidence_interval](Confidence_Interval.png)
 
 
 #### Retirement Analysis
@@ -53,8 +53,8 @@ Next I graphed the returns and marked a 90% confidence interval (shown in betwee
 
 (iii) Below is a plot showing the simulated cumulative returns for the portfolio at the indicated percentiles(in the legend). 
 
-![](Starter_code/Portfolio_performance_over_time.png)
+![performance](Portfolio_performance_over_time.png)
 
 (iv) This final chart shows simply the simulated median return for portfolio over time vs the simulated portfolio return at the 95th percentile. 
 
-![](Starter_code/Median_Portfolio_performance_over_time.png)
+![median](Median_Portfolio_performance_over_time.png)
