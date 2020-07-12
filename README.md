@@ -28,7 +28,7 @@ In order to project the future returns of the portfolio I ran a monte carlo simu
 
 Next I graphed the returns and marked a 90% confidence interval (shown in between the two red lines). As shown, the simulations implies that with a 90% degree of confidence the portfolio will be roughly 100x to almost 400x greater than initial investment.
 
-![Confidence](Starter_code/Confidence_Interval.png)
+![Confidence_interval](Starter_code/Confidence_Interval.png)
 
 
 #### Retirement Analysis
